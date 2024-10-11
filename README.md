@@ -2,8 +2,7 @@
 
 ---
 ## Week 4 Assignment
-- Link of my repository
-- https://github.com/dpl9753/SWE_2021_41_2024_2_week_4
+- Link of my repository: [Link](https://github.com/dpl9753/SWE_2021_41_2024_2_week_4)
 ```python
 def isHappy(n):
   decomposition = list(map(int, list(str(n))))

@@ -32,6 +32,11 @@ print(isHappy(2))
   - 7보다 작은 경우, 1 이외에는 모두 Happy Number가 아니므로 False를 반환
   - 최종적으로 1이 되면 Happy Number이므로 True를 반환
   - 마지막에는 Testcase를 확인하여 값이 올바르게 출력되는지 확인  
+- Result
+  ```
+  True
+  False
+  ```
 ---
 ## Week 5 Assignment
 
